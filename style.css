@@ -212,7 +212,7 @@
   margin-right: 10px;
   text-align: center;
   padding: 20px 10px 10px 10px;
-  
+  background-color: #fff;
   }
   
   .boxt{
@@ -228,7 +228,7 @@
       margin-right: 10px;
       text-align: center;
       padding: 20px 10px 10px 10px;
-      
+      background-color: #fff;
   
     }
     
@@ -241,6 +241,7 @@
       margin-right: 10px;
       text-align: center;
       padding: 20px 10px 10px 10px;
+      background-color: #fff;
    
     }
   
