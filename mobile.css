@@ -1,0 +1,77 @@
+/* Responsiveness */
+@media (min-width: 768px) {
+    .nav{
+        max-height: none;
+        top: 0;
+        position: relative;
+        float: right;
+        width: fit-content;
+        background-color: transparent;
+    }
+    .menu li{
+        float: left;
+    }
+    .menu a:hover{
+        background-color: transparent;
+        color: var(--gray);
+
+    }
+
+    .hamb{
+        display: none;
+    }
+
+    
+
+}
+
+
+/* ! box home */
+@media only screen and (max-width: 768px){
+
+.big-text{font-size: 50px; font-weight: 900;}
+.normal-text{font-size: 35px;}
+
+    .wrapper {
+    flex-direction: column;
+    }
+    
+    .wrapper:nth-child(even) {
+    flex-direction: column-reverse;
+    }
+    
+    .section{
+    width: 100%;
+    min-height: 50px;
+    }
+ 
+
+    .section2{
+        width: 100%;
+        min-height: 50px;
+        }
+        
+
+        h2, 
+        p {
+            font-size: 12px;
+        margin-bottom: px;
+        }
+
+
+    }
+
+
+/* ! pagina creazioni */ 
+@media only screen and (max-width: 768px) {
+    .container-crea {
+        flex-direction: column;
+        width: 100%;
+        padding: 5px 5px 5px 5px;
+    }
+
+    img {
+        width: 100%;
+      }
+    
+}
