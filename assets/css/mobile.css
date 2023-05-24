@@ -7,9 +7,11 @@
         float: right;
         width: fit-content;
         background-color: transparent;
+        
     }
     .menu li{
         float: left;
+   
     }
     .menu a:hover{
         background-color: transparent;
@@ -19,6 +21,7 @@
 
     .hamb{
         display: none;
+
     }
 
     
