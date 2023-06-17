@@ -1,5 +1,5 @@
 /* Responsiveness */
-@media (max-width: 768px) {
+@media only screen and (min-width:150px) and (max-width:700px) {
     .nav{
         max-height: none;
         top: 0;
@@ -27,14 +27,11 @@
         display: none;
 
     }
-
-    
-
 }
 
 
 /* ! box home */
-@media only screen and (max-width: 768px){
+@media only screen and (min-width:150px) and (max-width:700px){
 
 .big-text{font-size: 50px; font-weight: 900;}
 .normal-text{font-size: 35px;}
@@ -69,8 +66,9 @@
     }
 
 
-/* ! pagina creazioni */ 
-@media only screen and (max-width: 768px) {
+/* ! pagina creazioni  @media only screen and (max-width: 768px) */ 
+ 
+@media only screen and (min-width:150px) and (max-width:700px){
 
     .button{
         width: 80%;

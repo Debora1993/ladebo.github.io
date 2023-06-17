@@ -60,7 +60,7 @@
     height: 100%;
     position: fixed;
     background-color: var(--black);
-    overflow: hidden;
+    overflow:visible;
   
   }
   .menu a{
@@ -500,9 +500,88 @@
     width: 100%;
   color: #555555;
   text-align: center; 
+   }
+
+
+/* form contatto */
+
+.container-crea2{
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+
+}
+
+.box-4{
+  flex:1;
+  width: 30%;
+  border-radius: 0px;
+  margin-left: 10px;
+  margin-right: 10px;
+  text-align: left;
+  padding: 20px 10px 10px 10px;
+  background-color: none;
   
-        
-          }
-  
+  }
+
+input, textarea, select, option, legend {
+  color: #555;
+  font-size: 100%;
+}
+
+#name {
+  margin-left: 0px;
+  text-align: left;
+}
+
+#email {
+    margin-left: 0px;
+}
+
+#subject {
+    margin-left: 0px;
+}
+
+
+#submit {
+    margin-left: 90%;
+    background-color: #31676C;
+    color: #fff;
+    border: 0px;
+    font-weight: bold;
+    font-size: 100%;
+}
+
+
+input, textarea, select {
+    padding: 8px;
+    border: 1px solid rgb(141, 141, 141);
+    border-radius: 10px;
+    margin-top: 20px;
+    font-size: 100%;
+   
+}
+
+legend {
+    background-color: #fff;
+    font-weight: bold;
+    padding: 15px;
+    border: 1px solid #EE7513;
+    border-radius: 20px;
+
+}
+
+fieldset {
+    border: 2px solid #ffffff;
+    background-color: #ee761370;
+    border-radius: 20px;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 20px;
+}
+
+
+
+
   
       
