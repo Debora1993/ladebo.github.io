@@ -60,7 +60,7 @@
     height: 100%;
     position: fixed;
     background-color: var(--black);
-    overflow:visible;
+    overflow: hidden;
   
   }
   .menu a{
@@ -81,8 +81,9 @@
     cursor: pointer;
     float: right;
     padding: 5px 5px;
-  }/* Style label tag */
+  }
   
+  /* Style label tag */
   .hamb-line {
     background: var(--white);
     display: block;
