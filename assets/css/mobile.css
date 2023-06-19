@@ -1,5 +1,5 @@
 /* Responsiveness */
-@media only screen and (min-width:150px) and (max-width:700px) {
+@media only screen and (max-width: 768px) {
     .nav{
         max-height: none;
         top: 0;
