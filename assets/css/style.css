@@ -25,7 +25,7 @@
   border-radius: 60px; font-size: 20px; width: 20%;}
   .button:active, .button:hover{background-color: #EE7513; color:rgb(255, 255, 255); }
 
-  button2 {padding: 15px 15px; background: #31676C; color:rgb(255, 255, 255); display: inline-block; 
+  .button2 {padding: 10px 10px; background: #31676C; color:rgb(255, 255, 255); display: inline-block; 
     border-radius: 60px; font-size: 20px; width: 20%;}
     .button2:active, .button2:hover{background-color: #EE7513; color:rgb(255, 255, 255); }
   
@@ -571,9 +571,9 @@ input, textarea, select {
 legend {
     background-color: #fff;
     font-weight: bold;
-    padding: 15px;
+    padding: 10px;
     border: 1px solid #EE7513;
-    border-radius: 20px;
+    border-radius: 10px;
 
 }
 

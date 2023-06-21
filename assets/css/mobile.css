@@ -1,5 +1,5 @@
 /* Responsiveness */
-@media only screen and (max-width: 768px) {
+@media (min-width: 640px) {
     .nav{
         max-height: none;
         top: 0;
@@ -75,7 +75,7 @@
     }
 
     .button2{
-      width: 50%;
+      width: 40%;
       margin-bottom: 3%;
      
   }
@@ -108,7 +108,7 @@
 
 
       h4 {
-        font-size: 80%;
+        font-size: 50%;
         text-align: center;
         text-align: justify;
       }
