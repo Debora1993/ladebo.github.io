@@ -33,6 +33,10 @@
 /* ! box home */
 @media only screen and (min-width:150px) and (max-width:700px){
 
+    .slideshow-container {
+        max-width: 90%;
+    }
+    
 .big-text{font-size: 50px; font-weight: 900;}
 .normal-text{font-size: 35px;}
 
