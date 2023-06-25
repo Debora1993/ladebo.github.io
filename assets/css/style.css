@@ -550,7 +550,7 @@ input, textarea, select, option, legend {
 
 
 #submit {
-    margin-left: 90%;
+    margin-left: 0%;
     background-color: #31676C;
     color: #fff;
     border: 0px;
@@ -585,12 +585,6 @@ fieldset {
     margin-right: 30%;
     padding: 20px;
 }
-/* form contatto 
-.social{
-  display: flex;
-  flex-direction: row;
-  align-content: center;
-}*/
 
 .social{
   text-align: center;
