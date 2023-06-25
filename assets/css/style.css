@@ -585,9 +585,16 @@ fieldset {
     margin-right: 30%;
     padding: 20px;
 }
+/* form contatto 
+.social{
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+}*/
 
-
-
+.social{
+  width: 100%;
+  text-align: center;
+}
 
   
-      

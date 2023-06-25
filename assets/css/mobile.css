@@ -33,10 +33,23 @@
 /* ! box home */
 @media only screen and (min-width:150px) and (max-width:700px){
 
+
+  /* Caption text + slidershow container pag. creazioni */
+  .text {
+    color: #ffffff;
+    font-size: 20px;
+    padding: 2px 2px;
+    position: absolute;
+    bottom: 2px;
+    width: 90%;
+    text-align: center;
+    text-shadow: 1px 1px 2px #2a2a2a;
+  }   
     .slideshow-container {
         max-width: 90%;
-    }
-    
+    } /* fine */
+
+
 .big-text{font-size: 50px; font-weight: 900;}
 .normal-text{font-size: 35px;}
 
@@ -74,13 +87,14 @@
 @media only screen and (min-width:150px) and (max-width:700px){
 
     .button{
-        width: 80%;
+        width: 60%;
         margin-bottom: 3%;
     }
 
     .button2{
       width: 40%;
       margin-bottom: 3%;
+      margin-left: 30%;
      
   }
 
@@ -118,4 +132,10 @@
         margin-right: 5%;
       
     }
-}
+    .social{
+        width: 30%;
+        text-align: center;
+      }
+
+
+    }
