@@ -94,7 +94,9 @@
     .button2{
       width: 40%;
       margin-bottom: 3%;
-      margin-left: 30%;
+      margin-left: 20px;
+      margin-top: 25px;
+      text-align: center;
      
   }
 
