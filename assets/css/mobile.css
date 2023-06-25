@@ -133,9 +133,8 @@
       
     }
     .social{
-        width: 30%;
         text-align: center;
       }
 
-
+      .flex {width: 30%}
     }

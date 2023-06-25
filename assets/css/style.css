@@ -593,8 +593,10 @@ fieldset {
 }*/
 
 .social{
-  width: 100%;
   text-align: center;
+  border-image-width: 30%;
 }
+
+.flex {width: 15%}
 
   
