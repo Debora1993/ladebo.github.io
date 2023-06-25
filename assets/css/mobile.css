@@ -92,7 +92,7 @@
     }
 
     .button2{
-      width: 30%;
+      width: 40%;
       margin-bottom: 3%;
       margin-left: 10px;
       margin-right: 10px;
@@ -104,7 +104,7 @@
 
     .container-crea, .container-crea2 {
         flex-direction: column;
-        width: 90%;
+        width: 95%;
         padding: 5px 5px 5px 5px;
         
     }
@@ -122,12 +122,12 @@
         
         }
       
-input, textarea, select {
-            padding: 5px;
-            border: 1px solid rgb(141, 141, 141);
-            border-radius: 10px;
-            margin-top: 5px;
-            font-size: 100%;
+    input, textarea, select {
+    padding: 5px;
+    border: 1px solid rgb(141, 141, 141);
+    border-radius: 10px;
+    margin-top: 5px;
+    font-size: 100%;
            
         }
 
@@ -146,9 +146,16 @@ input, textarea, select {
         text-align: justify;
       }
 
+      legend {
+       text-align: center;
+    
+    }
+
+
       fieldset {
         margin-left: 5%;
         margin-right: 5%;
+        
       
     }
     .social{
