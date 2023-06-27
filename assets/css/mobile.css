@@ -162,5 +162,6 @@
         text-align: center;
       }
 
-      .flex2 {width: 30%}
+      .flex2 {width: 30%;
+    margin-top: 10px;}
     }
