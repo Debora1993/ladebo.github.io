@@ -73,9 +73,12 @@
         }
         
 
-        h2, 
-        p {
+        .h2, 
+        .p {
             font-size: 12px;
+        }
+.normal-text{
+            color: #31676C;
         }
 
 
@@ -98,8 +101,9 @@
       margin-right: 10px;
       margin-top: 25px;
       text-align: center;
-     
-  }
+
+        border-radius: 30px; 
+        font-size: 15px;}
 
 
     .container-crea, .container-crea2 {
@@ -162,13 +166,11 @@
         text-align: center;
       }
 
-      .flex2 {width: 30%;
+      .flex2 {width: 20%;
     margin-top: -10px;
-margin-bottom: -20px;}
+margin-bottom: 80px;}
 
-.button2 {width: 30%;
-    border-radius: 30px; 
-    font-size: 15px;
-display: none;}
+
+
 
     }
